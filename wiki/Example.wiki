@@ -11,7 +11,7 @@ There are several ways to implement the shopping cart into your webpages, here i
 ==Add the javascript==
 Add this javascript code to the *head* of your document.
 
-<code><script type="text/javascript" src="script/simpleCart.js"></script>
+<code><script type="text/javascript" src="http://jscart.googlecode.com/svn/jscart.js"></script>
 
 <script type="text/javascript"></code>
 {{{
